@@ -1,0 +1,96 @@
+
+ .phone, .social{
+border: 1px solid red;
+background-color: #green;
+
+
+	
+
+}
+.social a{
+	float: right;
+	margin: 0 40px; 
+	margin-top: -22px;
+	
+
+}
+.Email a{
+margin-left: 550px;
+}
+
+/*.img{
+	width: 15%;
+}
+.img img{
+	width: 100%;
+	float: left;
+}*/
+.inbox button{
+	margin: 20px 100px 0 0;
+	float: left;
+}
+/*.container-fluid{
+	width: 100%;
+	margin: 0 10px 0 10px;
+}*/
+
+
+.d-flex{
+	float: right;
+	margin: 0 45px;
+
+}
+.carousel-inner img{
+	height: 400px;
+	size: 300px;
+	width: 300px;
+
+}
+.logo{
+	float:left;
+}
+.logo img{
+	float: left;
+}
+
+/*.box{
+	margin: 35px 0;
+	height:55px;
+	background-color: black;
+	font-size: 45px;
+	width: 400px;
+	color:red;
+}
+.box h3{
+	margin: 30px 0;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}*/
+
+.row{
+	font-size: 26px;
+	color: white;
+	float: left;
+	margin: 0 20px;
+    margin-top: -380px;
+    align-items: right;
+
+
+}
+.row g-2{
+	background: red;
+}
+	
+.accordion-item{
+	text-align: center;
+
+}
+.header{
+	
+	background: red;
+}
+
+.label{
+	text-align: center;
+}
